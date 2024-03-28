@@ -1,5 +1,4 @@
 # Facultad de Ingeniería de Sistemas
-# Hackaton 2023-11-12
 Material eneisoft 12-11-2023
 
 ## Problemática
