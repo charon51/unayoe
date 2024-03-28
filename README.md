@@ -1,4 +1,4 @@
-# Facultad de Ingeniería de Sistemas
+# Facultad de Ingeniería de Sistemas e Informática
 Material eneisoft 12-11-2023
 
 ## Problemática
